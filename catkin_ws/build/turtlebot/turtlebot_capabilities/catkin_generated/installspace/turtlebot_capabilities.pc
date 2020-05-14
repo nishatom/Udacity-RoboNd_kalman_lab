@@ -1,0 +1,8 @@
+prefix=/home/ros/Desktop/turtlebot_bt/catkin_ws/install
+
+Name: turtlebot_capabilities
+Description: Description of turtlebot_capabilities
+Version: 2.4.2
+Cflags: 
+Libs: -L/home/ros/Desktop/turtlebot_bt/catkin_ws/install/lib 
+Requires: 
